@@ -1,3 +1,5 @@
+[![CI](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/main.yml/badge.svg)](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/main.yml)
+
 # Hugging Face GHCR 
 
 This repository provides a minimal example of deploying a Python-based Hugging Face web application using Docker and GitHub Container Registry (GHCR).
