@@ -27,4 +27,4 @@ jobs:
         context: ./
         file: ./Dockerfile
         push: true
-        tags: alfredodeza/huggingface-fastapi:latest
+        tags: mozaloom/huggingface-fastapi:latest
