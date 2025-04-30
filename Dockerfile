@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-COPY ./requirements.txt /app/requirements.txt
+COPY ./requirements.txt /webapp/requirements.txt
 
 WORKDIR /webapp
 
