@@ -1,0 +1,12 @@
+pytest
+pylint
+black
+ipython
+transformers
+datasets
+torch
+torchvision
+torchaudio
+pydantic
+uvicorn[standard]
+fastapi
