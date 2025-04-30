@@ -1,4 +1,5 @@
 [![CI](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/main.yml/badge.svg)](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/main.yml)
+[![Docker Image CI](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/docker-image.yml/badge.svg)](https://github.com/mozaloom/huggingface-ghcr/actions/workflows/docker-image.yml)
 
 # Hugging Face GHCR 
 
